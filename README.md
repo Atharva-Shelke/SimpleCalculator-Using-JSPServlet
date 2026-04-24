@@ -25,6 +25,7 @@ A clean, responsive web-based calculator built using **Java Servlets**, **JSP**,
 │   └── WEB-INF
 │       └── web.xml             # Deployment descriptor
 └── README.md
+```
 
 ## ⚙️ How to Run
 1. Clone or download this project.
@@ -33,5 +34,7 @@ A clean, responsive web-based calculator built using **Java Servlets**, **JSP**,
 4. Right-click the project -> **Run As** -> **Run on Server**.
 5. Access the app at: `http://localhost:8080/SimpleCalculator-Using-JSPServlet`
 
-## 📝 License
-This project is for educational purposes.
+## 📝 Prerequisites
+- **JDK 1.8 or higher**
+- **Apache Tomcat 9.0**
+- **Eclipse/STS IDE**
